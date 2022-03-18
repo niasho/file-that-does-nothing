@@ -1,5 +1,4 @@
 # file-that-does-nothing
-i love lean
 this file does nothing
 theres nothing in this file
 theres nothing in this file so it does nothing
